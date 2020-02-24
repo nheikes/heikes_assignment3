@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+G:\eclipse\eclipse-workspace\heikes_assignment3\.metadata\.plugins\org.eclipse.jdt.core
-875509695.index
-2904974853.index
